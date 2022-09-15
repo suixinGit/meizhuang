@@ -10,5 +10,9 @@ https://github.com/williamyang1991/DualStyleGAN
 ![image](https://user-images.githubusercontent.com/28581565/190417967-61081853-df8a-4d38-9117-a548899dd6f6.png)
 ![image](https://user-images.githubusercontent.com/28581565/190418346-029c9add-eb6e-4fa1-8f46-144a5f9fe697.png)
 
+InsetGAN
+https://github.com/afruehstueck/insetgan
+![image](https://user-images.githubusercontent.com/28581565/190421799-55f672d7-273a-43ba-bde3-daec16521c0e.png)
+
 
 
